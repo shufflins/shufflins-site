@@ -115,11 +115,10 @@ hr {
 }
 
 
-
-
-
- .btn-grad {background-image: linear-gradient(to right, #3494E6 0%, #EC6EAD  51%, #3494E6  100%)}
- .btn-grad {
+.btn-grad {
+	background-image: linear-gradient(to right, #3494E6 0%, #EC6EAD  51%, #3494E6  100%)
+}
+.btn-grad {
     margin: 10px;
     padding: 25px 40px;
     text-align: center;
@@ -132,14 +131,14 @@ hr {
     display: block;
     font-family: 'Space Mono', monospace;
     border: none;
-  }
+}
 
-  .btn-grad:hover {
+.btn-grad:hover {
     background-position: right center; /* change the direction of the change here */
     color: #fff;
     text-decoration: none;
     box-shadow: 0 0 25px #EC6EAD;
-  }
+}
 
 .footer {
 	position: absolute;
@@ -152,7 +151,7 @@ hr {
 
 .table {
 	margin: auto;
-	padding-top: 25vh;
+	padding-top: 22vh;
 	padding-bottom: 10vh;
 	width: 65vw;
 	font-family: 'Space Mono', monospace;
