@@ -1,0 +1,37 @@
+body {
+	color: black;
+	background-color: white;
+}
+
+.first {
+/*	height: 200px;
+	width: 200px;
+	background-color: lightblue;
+	border: solid 15px;*/
+}
+
+.second {
+	height: 200px;
+	width: 200px;
+	padding: 0;
+	margin: 0;
+	background-color: lightcoral;
+	border: 0;
+}
+
+.third {
+	height: 200px;
+	width: 200px;
+	padding: 0;
+	margin: 0;
+	background-color: lightyellow;
+	border: 0;
+}
+
+.pro {
+	text-decoration: underline;
+}
+
+.highlight {
+	background-color: yellow;
+}
