@@ -257,8 +257,17 @@ img[class="responsive"] {
 		font-size: 10px;
 		padding: 0;
 	}
-	.links {
-		
+	div .container {
+		width: 195px;
+		margin: auto;
+	}
+	form {
+		width: auto;
+		margin: auto;
+	}
+	input {
+		width: auto;
+		margin: auto;
 	}
 }
 
